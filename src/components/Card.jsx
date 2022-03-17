@@ -1,5 +1,4 @@
 import React from "react";
-
 const Card = () => {
   return (
     <div className="w3-card w3-margin w3-margin-top">
